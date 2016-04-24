@@ -71,7 +71,7 @@ a:focus {
   background-color: #fff;
 }
 .fading-line {
-  position: fixed;
+  position: relative;
   top: 30%;
   left: 45%;
   width: 500px;

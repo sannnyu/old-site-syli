@@ -72,8 +72,8 @@ a:focus {
 }
 .fading-line {
   position: relative;
-  top: 30%;
-  left: 45%;
+  top: 0%;
+  left: 0%;
   width: 500px;
   height: 250px;
   margin: -20px 0 0 -20px;
